@@ -1,0 +1,20 @@
+{
+
+    
+    "RegistrationPage": {
+        "LoginUrl": "http://www.way2automation.com/angularjs-protractor/registeration/#/login",
+        "afterLoginUrl":"http://www.way2automation.com/angularjs-protractor/registeration/#/",
+
+        "formValidation": {
+            "userName":"react",
+            "password":"react123"
+        },
+        "formRegistration":{
+            "userName":"angular",
+            "password":"password123"
+        }
+    }
+    
+
+
+}

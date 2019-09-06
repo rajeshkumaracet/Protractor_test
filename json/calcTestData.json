@@ -1,0 +1,36 @@
+{"CalulatorPage": {
+    "url":"http://www.way2automation.com/angularjs-protractor/calc/",
+
+    "NaNData": {
+        "inputBox1":"''",
+        "operator":"MULTIPLICATION",
+        "inputBox2":"''"
+    },
+
+    "AddData":{
+        "inputBox1":"5",
+        "operator":"ADDITION",
+        "inputBox2":"5"
+    },
+    "SubtractData":{
+        "inputBox1":"5",
+        "operator":"SUBTRACTION",
+        "inputBox2":"5"
+    },
+    "MultipleData":{ 
+        "inputBox1":"5",
+        "operator":"MULTIPLICATION",
+        "inputBox2":"5"
+    },
+    "DivisionData":{ 
+        "inputBox1":"5",
+        "operator":"DIVISION",
+        "inputBox2":"5"
+    },
+    "ModuloData":{ 
+        "inputBox1":"5",
+        "operator":"MODULO",
+        "inputBox2":"5"
+    }
+}
+}

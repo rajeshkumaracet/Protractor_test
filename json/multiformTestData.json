@@ -1,0 +1,11 @@
+{
+    "multiFormPage":{
+        "url": "http://www.way2automation.com/angularjs-protractor/multiform/#/form/profile",
+
+
+        "profilePage": {
+            "name":"adappt",
+            "email":"testTeam@adappt.co.uk"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "protractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor ./conf/conf.js",
+    "pretest": "rm -rf allure-report && rm -rf allure-results "
+  },
+  "author": "Rajeshkumar",
+  "license": "ISC",
+  "devDependencies": {
+    "allure-commandline": "^2.9.0",
+    "jasmine-allure-reporter": "^1.0.2"
+  },
+  "dependencies": {
+    "nodemailer": "^6.3.0",
+    "zip-a-folder": "0.0.9"
+  }
+}
